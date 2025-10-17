@@ -61,14 +61,13 @@ Check IPv6 details	ipv6config /all<br>
 Ping test (IPv4/IPv6)	ping <IP><br>
 Trace path (IPv4/IPv6)	tracert <IP><br>
 ________________________________________<br>
-# Verification & Testing
-• Successful ping replies indicate proper dual-stack connectivity.<br>
-• Trace route confirms correct path through routers R1–R2–R3.<br>
+
 ________________________________________
-# Output (Attach Screenshots)
-• ipconfig /all and ipv6config /all output for both PCs.<br>
-• Ping results for IPv4 and IPv6.<br>
-• Traceroute results showing intermediate hops.<br>
+# Output 
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/ae6f533a-9956-449d-b261-baad7ca8af18" />
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/074995c3-c18e-4aa0-8ce8-f492a7368bba" />
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/ba354d42-fcff-4b6b-86e8-65e0475fdf70" />
+
 ________________________________________
 # Result
 The dual-stack IPv4 and IPv6 addressing scheme was successfully verified. Both addressing types achieved full connectivity between PC1 and PC2 through multiple routers, confirming correct configuration and routing.
